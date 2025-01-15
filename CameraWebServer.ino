@@ -33,7 +33,7 @@
 //#define CAMERA_MODEL_DFRobot_Romeo_ESP32S3 // Has PSRAM
 #include "camera_pins.h"
 
-#define LED_BUILTIN = 4
+#define LED_BUILTIN 4
 
 // ===========================
 // Enter your WiFi credentials
